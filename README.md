@@ -69,7 +69,7 @@ Scalable Automation: This level of accuracy allows the model to safely automate 
 
 
 🌐 Live Demo
-This model is deployed as an interactive web application using Streamlit, allowing users to input applicant details and receive instant credit score predictions.
+This model is deployed as an interactive web application using Streamlit, allowing users to input applicant details and receive instant credit score predictions. https://creditscorepredictionmodelwithapprandomforrestregreappr-gmw3qq.streamlit.app/
 
 💼 Business Applications
 This model can be directly integrated into:
