@@ -61,6 +61,7 @@ RandomForestRegressor(
     n_estimators=100,
     max_depth=6
 )
+```
 💼 Business Interpretation
 These metrics translate directly to real-world financial impact:
 High Prediction Confidence: A 6.05% average error is considered excellent for credit score prediction. For a score of 700, the model's prediction will typically fall within a tight range of roughly ±38 points.
